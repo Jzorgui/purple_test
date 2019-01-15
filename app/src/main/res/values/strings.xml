@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Purple</string>
+    <string name="titre">Titre</string>
+    <string name="la_description">la description</string>
+    <string name="todo">TODO</string>
 </resources>

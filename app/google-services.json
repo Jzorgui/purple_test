@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "413354217071-urcdtec3cal9haugqd87v99d5qbl7iti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.purple",
+            "certificate_hash": "d404ed387a181aab095b08e28d9a673a0586ddf5"
+          }
+        },
+        {
           "client_id": "413354217071-v0ma9ofv28aqt4bdviujtprtnjnei883.apps.googleusercontent.com",
           "client_type": 3
         }

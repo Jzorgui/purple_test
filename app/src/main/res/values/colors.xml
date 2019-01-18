@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#d81b60</color>
     <color name="colorgrey">#afb38b99</color>
+    <color name="AppPurpleColor">#C51162</color>
 </resources>
